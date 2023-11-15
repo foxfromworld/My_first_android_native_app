@@ -4,6 +4,7 @@ This is my first Android native app
 I created this "Native C++" project and mainly those files below are modified.
 
 app\src\main\cpp\native-lib.cpp
+
 app\src\main\java\com\myapplication\MainActivity.java
 
 
